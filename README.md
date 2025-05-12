@@ -17,7 +17,4 @@ A simple movie search and favorite application built with React and the OMDb API
 - OMDb API (Open Movie Database)
 - CSS
 
-
-![Alt text](public/Home.png)
-![Alt text](public/Favorites.png)
-![Alt text](public/Search.png)
+https://nurliyn.github.io/Movie-App/
