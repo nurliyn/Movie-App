@@ -11,7 +11,7 @@ A simple movie search and favorite application built with React and the OMDb API
 
 ## 🛠️ Tech Stack
 
-- React (Functional Components + Hooks)
+- React (Framework)
 - React Router DOM
 - Context API for global state
 - OMDb API (Open Movie Database)
